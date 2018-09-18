@@ -1,6 +1,11 @@
 # microservices-demo
-
 https://spring.io/blog/2015/07/14/microservices-with-spring
+
+# Another best step by step guide for microservices
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b
+https://dzone.com/articles/microservice-spring-cloud-eureka-server-configurat
+
+
 
 
 Demo application to go with my [Microservices Blog](https://spring.io/blog/2015/07/14/microservices-with-spring) on the spring.io website.  **WARNING:** Only maven build has been updated.  Gradle build still to be done.
